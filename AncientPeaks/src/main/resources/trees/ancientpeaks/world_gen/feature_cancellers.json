@@ -1,0 +1,29 @@
+[
+  {
+    "select": {
+      "name": "ancientpeaks:.*"
+    },
+    "cancellers": {
+      "type": "tree",
+      "namespace": "minecraft"
+    }
+  },
+  {
+    "select": {
+      "name": "ancientpeaks:.*"
+    },
+    "cancellers": {
+      "type": "tree",
+      "namespace": "ancientpeaks"
+    }
+  },
+  {
+    "select": {
+      "name": "ancientpeaks:.*"
+    },
+    "cancellers": {
+      "type": "rooted_tree",
+      "namespace": "minecraft"
+    }
+  }
+]

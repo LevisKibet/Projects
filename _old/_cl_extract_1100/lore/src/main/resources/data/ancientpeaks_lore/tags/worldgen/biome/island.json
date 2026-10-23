@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "ancientpeaks:ancient_highlands",
+    "ancientpeaks:highland_meadow",
+    "ancientpeaks:highland_forest",
+    "ancientpeaks:highland_plains",
+    "ancientpeaks:highland_gorge",
+    "ancientpeaks:highland_shore",
+    "ancientpeaks:highland_peaks",
+    "ancientpeaks:highland_tarn"
+  ]
+}

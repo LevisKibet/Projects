@@ -1,0 +1,6 @@
+{
+  "type": "rivergence:remove_if_enabled",
+  "biomes": "#minecraft:is_overworld",
+  "features": "minecraft:spring_water",
+  "steps": ["fluid_springs"]
+}

@@ -1,0 +1,8 @@
+{
+  "type": "ancientpeaks_lore:site",
+  "site": "chapels",
+  "biomes": "#ancientpeaks_lore:chapel_land",
+  "step": "surface_structures",
+  "terrain_adaptation": "none",
+  "spawn_overrides": {}
+}

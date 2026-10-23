@@ -1,0 +1,23 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.ronald.ancientpeaks.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "ancientpeaks.refmap.json",
+  "mixins": [
+    "RandomStateMixin",
+    "ClimateSamplerMixin",
+    "MultiNoiseBiomeSourceMixin",
+    "NoiseChunkMixin",
+    "SurfaceContextAccessor",
+    "PortalDataManagerMixin",
+    "ChunkGeneratorMixin",
+    "StreamsVetoMixin",
+    "BiomeSourceMixin",
+    "NoiseCarverMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "plugin": "com.ronald.ancientpeaks.mixin.AncientPeaksMixinPlugin"
+}

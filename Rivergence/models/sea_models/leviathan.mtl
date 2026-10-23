@@ -1,0 +1,26 @@
+newmtl hide_back
+Kd 0.0392 0.0627 0.0863
+Ka 0 0 0
+d 1.000
+
+newmtl hide_belly
+Kd 0.0863 0.1176 0.1412
+Ka 0 0 0
+d 1.000
+
+newmtl spines
+Kd 0.0314 0.0471 0.0706
+Ka 0 0 0
+d 1.000
+
+newmtl eye
+Kd 0.9216 0.8941 0.5882
+Ka 0 0 0
+d 1.000
+Ke 0.9216 0.8941 0.5882
+
+newmtl pupil
+Kd 0.0784 0.0706 0.0392
+Ka 0 0 0
+d 1.000
+

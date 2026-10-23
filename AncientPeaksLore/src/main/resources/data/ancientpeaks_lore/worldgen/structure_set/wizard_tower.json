@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "ancientpeaks_lore:wizard_tower",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 91258324,
+    "spacing": 1,
+    "separation": 0
+  }
+}

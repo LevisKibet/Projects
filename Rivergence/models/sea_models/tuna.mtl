@@ -1,0 +1,25 @@
+newmtl tuna_back
+Kd 0.1098 0.1725 0.3373
+Ka 0 0 0
+d 1.000
+
+newmtl tuna_belly
+Kd 0.8039 0.8314 0.8706
+Ka 0 0 0
+d 1.000
+
+newmtl tuna_fins
+Kd 0.1255 0.1882 0.3529
+Ka 0 0 0
+d 1.000
+
+newmtl tail
+Kd 0.1569 0.2157 0.3725
+Ka 0 0 0
+d 1.000
+
+newmtl finlets
+Kd 0.9412 0.8235 0.1569
+Ka 0 0 0
+d 1.000
+

@@ -1,0 +1,109 @@
+{
+ "type": "minecraft:chest",
+ "pools": [
+  {
+   "rolls": 1,
+   "entries": [
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'Maeve\\'s Journal, October 4th',author:'Maeve',resolved:1b,generation:3,LoreId:1,pages:['{\"text\": \"King Arthur passed through today. I nearly missed him at first, because he looked nothing like the songs say. No crown. No cloak stitched with gold. Just dull mail, road mud, and a horse so tired it stood with its head low.\"}','{\"text\": \"He stopped outside Father\\'s forge and asked for water from our well. Father forgot to bow until Mother hissed at him from the doorway. The King laughed and said a thirsty man has no use for ceremony.\"}','{\"text\": \"Grandfather spoke to him about the apple crop, which was poor again, and the King listened as if apples mattered as much as armies. Before he rode on, he gave Toby a silver penny and told him to keep it safe until spring.\"}','{\"text\": \"Toby slept with it in his fist.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'Maeve\\'s Journal, October 18th',author:'Maeve',resolved:1b,generation:3,LoreId:2,pages:['{\"text\": \"The smoke over the western ridge has not cleared since morning. At dusk, the chapel bell rang three times, slow and hard. Everyone knew what it meant before anyone said the word.\"}','{\"text\": \"Father came in from the forge with soot still on his cheeks and told Mother to pack only what we could carry. She packed bread, wool coats, Father\\'s knife, and the small picture of Saint Alban. She left her good cooking pot behind.\"}','{\"text\": \"Toby cried because his wooden horse would not fit in the cart. I wanted to say we would come back for it, but Mother looked at me and shook her head. The road was already full by moonrise. Nobody sang. Nobody even spoke much.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'A Refugee\\'s Diary',author:'A refugee',resolved:1b,generation:3,LoreId:3,pages:['{\"text\": \"14th Day of Harvest\\\\nThey came at dusk, when the smoke from our supper fire was still rising. I heard the dog bark first, then a man shouting in a language I did not know. By the time I reached the barn, the roof had caught.\"}','{\"text\": \"Martha carried the boy. I carried my carving knife, one loaf, and nothing else. I remember thinking of the winter blankets still folded on the chest. Foolish thing to think of while your own house burns.\"}','{\"text\": \"We found the roadside chapel after midnight by the little flame in its window. There was straw on the floor, dry oak by the hearth, and barley in a clay jar. I do not know who left it there, but I blessed their name until I fell asleep.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'A Woodcutter\\'s Tale',author:'A woodcutter',resolved:1b,generation:3,LoreId:4,pages:['{\"text\": \"3rd Day of Frost\\\\nThe upper clearing was almost empty today. Usually the axes start before sunrise and the whole hill rings with them. This morning it was only Will, old Cadan, and me.\"}','{\"text\": \"The younger men have taken their families south, or say they mean to. Those who stay sharpen their axes longer than they need to. No one says \\\\\"Saxon\\\\\" out loud until after dark.\"}','{\"text\": \"Near the ridge, I heard a low sound from the west. Not thunder. Not wind. The sky was clear, but every bird in the trees went silent at once. Will crossed himself and told me to leave the oak standing. He said some trees know when men should go home.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'The Baker\\'s Ledger',author:'The village baker',resolved:1b,generation:3,LoreId:5,pages:['{\"text\": \"Supply Log, Autumn\\\\nNo flour from the river mill again. Four days late. I stretched the rye with barley and bean meal and called it village bread, but the children knew. Children always know when bread has become poor.\"}','{\"text\": \"I told the mothers there would be no white loaves until the mill carts came. One asked if I had hidden flour for richer houses. I have not. I wish I had, because at least then someone in this village would be eating properly.\"}','{\"text\": \"Two riders came at noon, cloaked up to the eyes though the day was mild. They bought my last six loaves for far too much silver and did not wait for change. One kept looking toward the coast. I barred the bakery door before sunset.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'A Child\\'s Drawing Scrap',author:'A child',resolved:1b,generation:3,LoreId:6,pages:['{\"text\": \"Scribbled in charcoal\\\\nMa says we are sleeping in the stone church tonight. I asked if Patch could come too, but she said dogs are better at hiding than people. Then she cried when she thought I was tying my shoes.\"}','{\"text\": \"Toby says we are going on an adventure, but he is lying because his voice went funny. I packed my blue ribbon, then unpacked it, then put it on the porch rail so Patch knows we did not forget him.\"}','{\"text\": \"If he smells the ribbon, he can follow us to the church with the bell. Dogs can smell people after rain. Toby said so. I hope bad men do not like dogs.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'Harvest Festival Memory',author:'The Community Book',resolved:1b,generation:3,LoreId:7,pages:['{\"text\": \"From the Community Book\\\\nLast harvest, the cider was so sweet that even Father Bernard took a second cup and blamed it on the cold. We hung apples from the rafters and pushed the tavern tables out into the square.\"}','{\"text\": \"The bailiff brought two small barrels of mead from court stores. He said it was a gift from the High King to villages that kept the roads mended. Old Martin danced until his knee failed him, then claimed he had only been stretching.\"}','{\"text\": \"Now the cups are still stacked behind the bar and Martin\\'s fiddle hangs on its peg. The room smells of dust, old smoke, and spilled ale. No one lights the square after dark anymore.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'The Blacksmith\\'s Complaint',author:'The blacksmith',resolved:1b,generation:3,LoreId:8,pages:['{\"text\": \"Order Book\\\\nCaptain Thomas came in with an order for forty spearheads and ten long blades. I told him I make hinges, plowshares, nails, and horseshoes. War steel is different work. It remembers the hand that shaped it.\"}','{\"text\": \"He looked older than he did last month. His cloak was wet through, and he had the smell of a man who had slept in armor. He put a purse of silver on the anvil and said, \\\\\"Then remember quickly.\\\\\"\"}','{\"text\": \"I wanted to refuse. Then I thought of my sons sleeping above the forge and my wife pretending not to listen from the stairs. I took the silver. Tonight the fire is too bright, and every hammer blow sounds like a bell.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'A Weaver\\'s Letter to Her Sister',author:'A weaver',resolved:1b,generation:3,LoreId:9,pages:['{\"text\": \"Dearest Joan,\\\\nNo peddlers have come through the valley this season. I still have six bolts of blue wool folded in the workroom, fine enough for a lord\\'s cloak, but no one wants color now.\"}','{\"text\": \"They want salt, oats, lamp oil, and news. Mostly news. People come to my door pretending to ask about thread, then stand there waiting for me to say whether the western road is safe.\"}','{\"text\": \"I do not know. That is the worst of it. Fear is easier when it has a face. Bolt your door at night, Joan. Do not wait for proof. If the peddlers have stopped walking the road, ordinary folk should not be braver than they are.\"}']}"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

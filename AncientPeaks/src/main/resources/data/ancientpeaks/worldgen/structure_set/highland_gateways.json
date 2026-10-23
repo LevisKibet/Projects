@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "ancientpeaks:highland_gateway",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 734615021,
+    "spacing": 44,
+    "separation": 14
+  }
+}

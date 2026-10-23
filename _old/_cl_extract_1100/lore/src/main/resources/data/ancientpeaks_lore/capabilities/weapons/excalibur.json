@@ -1,0 +1,10 @@
+{
+  "type": "ancientpeaks_lore:excalibur",
+  "attributes": {
+    "common": {
+      "armor_negation": 20.0,
+      "impact": 2.2,
+      "max_strikes": 2
+    }
+  }
+}

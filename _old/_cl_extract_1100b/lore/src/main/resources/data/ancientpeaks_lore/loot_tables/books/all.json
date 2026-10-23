@@ -1,0 +1,340 @@
+{
+ "type": "minecraft:chest",
+ "pools": [
+  {
+   "rolls": 1,
+   "entries": [
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'Maeve\\'s Journal, October 4th',author:'Maeve',resolved:1b,generation:3,LoreId:1,pages:['{\"text\": \"King Arthur passed through today. I nearly missed him at first, because he looked nothing like the songs say. No crown. No cloak stitched with gold. Just dull mail, road mud, and a horse so tired it stood with its head low.\"}','{\"text\": \"He stopped outside Father\\'s forge and asked for water from our well. Father forgot to bow until Mother hissed at him from the doorway. The King laughed and said a thirsty man has no use for ceremony.\"}','{\"text\": \"Grandfather spoke to him about the apple crop, which was poor again, and the King listened as if apples mattered as much as armies. Before he rode on, he gave Toby a silver penny and told him to keep it safe until spring.\"}','{\"text\": \"Toby slept with it in his fist.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'Maeve\\'s Journal, October 18th',author:'Maeve',resolved:1b,generation:3,LoreId:2,pages:['{\"text\": \"The smoke over the western ridge has not cleared since morning. At dusk, the chapel bell rang three times, slow and hard. Everyone knew what it meant before anyone said the word.\"}','{\"text\": \"Father came in from the forge with soot still on his cheeks and told Mother to pack only what we could carry. She packed bread, wool coats, Father\\'s knife, and the small picture of Saint Alban. She left her good cooking pot behind.\"}','{\"text\": \"Toby cried because his wooden horse would not fit in the cart. I wanted to say we would come back for it, but Mother looked at me and shook her head. The road was already full by moonrise. Nobody sang. Nobody even spoke much.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'A Refugee\\'s Diary',author:'A refugee',resolved:1b,generation:3,LoreId:3,pages:['{\"text\": \"14th Day of Harvest\\\\nThey came at dusk, when the smoke from our supper fire was still rising. I heard the dog bark first, then a man shouting in a language I did not know. By the time I reached the barn, the roof had caught.\"}','{\"text\": \"Martha carried the boy. I carried my carving knife, one loaf, and nothing else. I remember thinking of the winter blankets still folded on the chest. Foolish thing to think of while your own house burns.\"}','{\"text\": \"We found the roadside chapel after midnight by the little flame in its window. There was straw on the floor, dry oak by the hearth, and barley in a clay jar. I do not know who left it there, but I blessed their name until I fell asleep.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'A Woodcutter\\'s Tale',author:'A woodcutter',resolved:1b,generation:3,LoreId:4,pages:['{\"text\": \"3rd Day of Frost\\\\nThe upper clearing was almost empty today. Usually the axes start before sunrise and the whole hill rings with them. This morning it was only Will, old Cadan, and me.\"}','{\"text\": \"The younger men have taken their families south, or say they mean to. Those who stay sharpen their axes longer than they need to. No one says \\\\\"Saxon\\\\\" out loud until after dark.\"}','{\"text\": \"Near the ridge, I heard a low sound from the west. Not thunder. Not wind. The sky was clear, but every bird in the trees went silent at once. Will crossed himself and told me to leave the oak standing. He said some trees know when men should go home.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'The Baker\\'s Ledger',author:'The village baker',resolved:1b,generation:3,LoreId:5,pages:['{\"text\": \"Supply Log, Autumn\\\\nNo flour from the river mill again. Four days late. I stretched the rye with barley and bean meal and called it village bread, but the children knew. Children always know when bread has become poor.\"}','{\"text\": \"I told the mothers there would be no white loaves until the mill carts came. One asked if I had hidden flour for richer houses. I have not. I wish I had, because at least then someone in this village would be eating properly.\"}','{\"text\": \"Two riders came at noon, cloaked up to the eyes though the day was mild. They bought my last six loaves for far too much silver and did not wait for change. One kept looking toward the coast. I barred the bakery door before sunset.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'A Child\\'s Drawing Scrap',author:'A child',resolved:1b,generation:3,LoreId:6,pages:['{\"text\": \"Scribbled in charcoal\\\\nMa says we are sleeping in the stone church tonight. I asked if Patch could come too, but she said dogs are better at hiding than people. Then she cried when she thought I was tying my shoes.\"}','{\"text\": \"Toby says we are going on an adventure, but he is lying because his voice went funny. I packed my blue ribbon, then unpacked it, then put it on the porch rail so Patch knows we did not forget him.\"}','{\"text\": \"If he smells the ribbon, he can follow us to the church with the bell. Dogs can smell people after rain. Toby said so. I hope bad men do not like dogs.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'Harvest Festival Memory',author:'The Community Book',resolved:1b,generation:3,LoreId:7,pages:['{\"text\": \"From the Community Book\\\\nLast harvest, the cider was so sweet that even Father Bernard took a second cup and blamed it on the cold. We hung apples from the rafters and pushed the tavern tables out into the square.\"}','{\"text\": \"The bailiff brought two small barrels of mead from court stores. He said it was a gift from the High King to villages that kept the roads mended. Old Martin danced until his knee failed him, then claimed he had only been stretching.\"}','{\"text\": \"Now the cups are still stacked behind the bar and Martin\\'s fiddle hangs on its peg. The room smells of dust, old smoke, and spilled ale. No one lights the square after dark anymore.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'The Blacksmith\\'s Complaint',author:'The blacksmith',resolved:1b,generation:3,LoreId:8,pages:['{\"text\": \"Order Book\\\\nCaptain Thomas came in with an order for forty spearheads and ten long blades. I told him I make hinges, plowshares, nails, and horseshoes. War steel is different work. It remembers the hand that shaped it.\"}','{\"text\": \"He looked older than he did last month. His cloak was wet through, and he had the smell of a man who had slept in armor. He put a purse of silver on the anvil and said, \\\\\"Then remember quickly.\\\\\"\"}','{\"text\": \"I wanted to refuse. Then I thought of my sons sleeping above the forge and my wife pretending not to listen from the stairs. I took the silver. Tonight the fire is too bright, and every hammer blow sounds like a bell.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'A Weaver\\'s Letter to Her Sister',author:'A weaver',resolved:1b,generation:3,LoreId:9,pages:['{\"text\": \"Dearest Joan,\\\\nNo peddlers have come through the valley this season. I still have six bolts of blue wool folded in the workroom, fine enough for a lord\\'s cloak, but no one wants color now.\"}','{\"text\": \"They want salt, oats, lamp oil, and news. Mostly news. People come to my door pretending to ask about thread, then stand there waiting for me to say whether the western road is safe.\"}','{\"text\": \"I do not know. That is the worst of it. Fear is easier when it has a face. Bolt your door at night, Joan. Do not wait for proof. If the peddlers have stopped walking the road, ordinary folk should not be braver than they are.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'A Guard\\'s Unsent Letter',author:'A guard',resolved:1b,generation:3,LoreId:10,pages:['{\"text\": \"Dearest Elspeth,\\\\nI meant to send this with the grain cart, but the cart never came. Things here are not right. Men stop talking when I enter the room, and Commander Rhys has begun holding council after midnight.\"}','{\"text\": \"Two nights ago, I saw a hooded rider at the back gate. He gave Rhys a purse heavy enough to pull the leather flat. I did not hear every word, but I heard one name clearly: Vortigern.\"}','{\"text\": \"Captain Thomas found a sealed letter this morning. He read it once, burned it, and ordered double watch until further notice. Since then he keeps his sword close even indoors. I think some of our own have been bought.\"}','{\"text\": \"I should have told you to leave sooner.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'Watchman\\'s Log: The Western Sea',author:'The watchman',resolved:1b,generation:3,LoreId:11,pages:['{\"text\": \"Third Watch, Heavy Fog\\\\nNo ships left harbor today. Not one. A trader came ashore shaking so badly he could barely climb the ladder. He swore there were dark hulls beyond the reef, sitting without lamps.\"}','{\"text\": \"I asked how many. He said too many, then vomited into the tide. The harbor master called him drunk, but still ordered the chains raised across the inlet before sunset.\"}','{\"text\": \"We sent two riders inland. Neither has returned. The fog has soaked the page and put salt on my lips. If those ships come through tonight, this tower will serve as warning, not defense.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'Patrol Report: Northern Boundary',author:'Captain Andrew',resolved:1b,generation:3,LoreId:12,pages:['{\"text\": \"Captain Andrew reporting\\\\nWe reached the river bend by noon. Three farms abandoned. No bodies found. No livestock. One house still had porridge in the pot, gone cold and skinned over.\"}','{\"text\": \"In the second house, a cradle had been overturned. Sergeant Pell wanted to search the tree line, but our scout found boot tracks heading both north and west. Too many to read cleanly.\"}','{\"text\": \"Three straight cuts were marked into the pines along the road. The scout says Saxon hired men use them to mark safe paths. If true, they are walking deeper into Arthur\\'s lands than any enemy has dared in years.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'Guard Post 4: Midnight Watch',author:'Guard Post 4',resolved:1b,generation:3,LoreId:13,pages:['{\"text\": \"Scrawled on a wooden ledger\\\\nMidnight watch. Wind from the west. Light seen in the old tower across the gulch. That tower has been empty since the roof burned five winters ago.\"}','{\"text\": \"Sent John with three men. No answer to horn call. Light went out just after the moon came through cloud. We have barred the inner gate and put two men above the murder holes.\"}','{\"text\": \"No one is to open before dawn, no matter whose voice calls from outside. If John returns, he knows the lower signal. If he does not give it, then it is not John.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'The Last Inspection',author:'The captain',resolved:1b,generation:3,LoreId:14,pages:['{\"text\": \"Three archers deserted in the rain last night. They took two horses, a bow case, and most of the dry rations. By law, I should send men after them. I have not. I understand them too well.\"}','{\"text\": \"The pay chest arrived from the capital at noon. The lock was intact. The seal looked proper. Inside were river stones and scrap iron. The men saw before I could close the lid.\"}','{\"text\": \"I can command hungry soldiers for a while. I can command frightened ones for longer than most men think. But abandoned men are different. They look past you when you speak, as if already measuring the road home.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'Signals in the Fog',author:'The night watch',resolved:1b,generation:3,LoreId:15,pages:['{\"text\": \"To the morning watch: keep your eyes on the island headland. I saw red lantern flashes there three times after midnight. Short. Regular. Too deliberate to be a fisherman\\'s lamp.\"}','{\"text\": \"It was not our coast guard\\'s code. I checked the slate twice. Someone on that island is speaking to the ships in the coves, and they are answering without showing flame.\"}','{\"text\": \"Do not leave this tower empty, even for water. If the lamp goes dark, light it again. If I am gone when you arrive, take this to the harbor master and trust no one who tells you to wait.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'Sanctuaries of the High King',author:'Brother Bran',resolved:1b,generation:3,LoreId:16,pages:['{\"text\": \"From the writings of Brother Bran\\\\nIn the first years of Arthur\\'s reign, he ordered small chapels built along the old roads. They were plain places: a hearth, a bell, clean straw, and a locked store of grain for winter travelers.\"}','{\"text\": \"Some nobles called it wasteful. The King answered that a road was only truly royal if a poor man could walk it without fearing the dark. I copied those words often when I was young.\"}','{\"text\": \"They feel heavier now. The roads are empty, the bells carry farther than they should, and men arrive at our door with blood frozen into their sleeves. Still, the fire is lit each night. A promise is not kept only in good weather.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'The Empty Barracks',author:'A monk',resolved:1b,generation:3,LoreId:17,pages:['{\"text\": \"12th Day of Sun-Ebb\\\\nThe soldiers left before dawn. Captain Andrew read the order by lantern-light and would not meet our eyes. They took the horses, the arrows, and nearly all the salted beef.\"}','{\"text\": \"Brother Silas asked who would guard the chapel now. The captain said nothing for a long while. Then he looked toward the water and told us to bar the gate at sunset.\"}','{\"text\": \"We are four monks, two old spears, and a bell. I have written that sentence three times because it does not improve by being written neatly. I am ashamed to say I am afraid.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'Unsent Letter to the Abbot',author:'A monk',resolved:1b,generation:3,LoreId:18,pages:['{\"text\": \"To Father Julian,\\\\nThe supply wagons are three weeks overdue. We have half a sack of barley left, no lamp oil to spare, and the candles are burned so low that Brother Luke saves the melted wax in a cup.\"}','{\"text\": \"A peddler came through saying Logres has shut its gates. He may have lied for a meal. Men do that when hungry. Still, he knew the names of two streets near the harbor and wept when he spoke of them.\"}','{\"text\": \"If no bread comes by fortnight, we must decide whether staying here helps anyone at all. I used to think abandoning a sanctuary was a sin. Now I wonder whether letting people starve inside one is worse.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'Ashes on the Altar',author:'Unknown hand',resolved:1b,generation:3,LoreId:19,pages:['{\"text\": \"Written in haste\\\\nThey came after midnight. In better days, even thieves feared sanctuary ground. Not now. They knew the guards had gone. They knew no riders would come.\"}','{\"text\": \"They broke the stained glass and took the cup from the altar. I heard one of them laugh because it was only brass under the gold wash. Then they fired the rafters for spite.\"}','{\"text\": \"I am in the bell loft with two children from the village. The smoke is coming through the boards. One child is praying. The other has not spoken. If this is found, tell Father Julian we stayed. Tell him we kept the bell ringing until,\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'The Overgrown Sanctuary',author:'A monk',resolved:1b,generation:3,LoreId:20,pages:['{\"text\": \"A year has passed since the soldiers marched away. The roof still holds over the altar, though rain falls freely in the north aisle. Ivy has reached the windows. Brambles grow where the benches stood.\"}','{\"text\": \"The bell rope rotted through in spring. For a while, Brother Luke climbed the ladder and rang it by hand, but then his cough worsened and no one asked him again.\"}','{\"text\": \"No travelers come now. The road is mud, then grass, then nothing. We used to think stone meant permanence. It does not. Without hands to mend it, even a holy place becomes part of the wood.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'Brother Thomas\\'s Notes',author:'Brother Thomas',resolved:1b,generation:3,LoreId:21,pages:['{\"text\": \"10th Day of Rain\\\\nThree people came from the coastal road today. One had a cut across the scalp. One would not stop shaking. The third kept asking whether the ships had landed, though none of us had spoken of ships.\"}','{\"text\": \"They carried no bags. That frightened me more than the wounds. A person who flees with nothing has either lost everything or seen something that made belongings feel foolish.\"}','{\"text\": \"I told Brother Luke to ring the bell each hour through the mist. Some may hear it and come to safety. Others may hear it too. I know this, but silence feels worse.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'Sanctuary Ledger: Unnamed Guests',author:'The sanctuary',resolved:1b,generation:3,LoreId:22,pages:['{\"text\": \"Guest Register\\\\n\\\\u2022 4th Nov: Family of five from the eastern farms. Given straw, broth, and one loaf. Youngest child feverish.\\\\n\\\\u2022 7th Nov: Knight with burned armor. Refused name. Slept sitting upright. Left before dawn.\"}','{\"text\": \"\\\\u2022 9th Nov: Two brothers from the mill road. One missing three fingers. Paid with a silver button. Returned button when they slept.\\\\n\\\\u2022 12th Nov: Old man in a gray cloak. Wound in his side. No coin, no weapon.\"}','{\"text\": \"The old man speaks gently, but men obey him before noticing they have done so. He asked that the bell be rung if strangers approach. Brother Silas thinks he is a lord in hiding. I think he is older than any lord.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'Dockmaster\\'s Tally',author:'The dockmaster',resolved:1b,generation:3,LoreId:23,pages:['{\"text\": \"Port Ledger, Logres Trade\\\\n\\\\u2022 Sea Lark: Returned without cargo. Captain reports the harbor gates at Logres are barred.\\\\n\\\\u2022 White Seagull: Seven days overdue. Last seen westbound in fog.\"}','{\"text\": \"\\\\u2022 Martha\\'s Grace: Refused clearance despite fair wind. Crew claims the western lighthouse has gone dark.\\\\n\\\\u2022 Little Hart: Nets cut loose. Owner says he will burn the boat before sailing near the reef again.\"}','{\"text\": \"No vessels cleared today. The crews are sleeping in the tavern with their boots on. I checked the lighthouse twice myself after sunset. No flame. I have served this harbor thirty years and have never seen that tower dark.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'Sailor\\'s Tavern Rumor',author:'Unknown hand',resolved:1b,generation:3,LoreId:24,pages:['{\"text\": \"Scrawled on a stained page\\\\nBarnaby says he saw light on the island ridge while fishing beyond the reef. Blue light, he says, though everyone knows he drinks too much when the weather turns.\"}','{\"text\": \"He says the fog opened for a breath and the high meadow shone like moonlight under water. Shapes stood along the ridge. Tall ones. Still as stones. Then lightning flashed, though no storm followed.\"}','{\"text\": \"The men laughed and told him to drink his ale. But Barnaby has not put his boat out since. That troubles me more than the story. Barnaby would sail in a storm for a good catch.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'A Fisherman\\'s Warning',author:'A fisherman',resolved:1b,generation:3,LoreId:25,pages:['{\"text\": \"Keep clear of the black stone arch by the Highland Gate. My boy and I lost two good nets there yesterday. They came up sliced clean through, not torn on rock or bitten by seal.\"}','{\"text\": \"The water under the arch is cold enough to numb your hands, even in summer. When the tide turns, a hum comes up through the hull and settles in your teeth.\"}','{\"text\": \"My boy said he heard someone speaking below us. I told him it was the water, because fathers say such things when they are afraid. I do not know what lives under that arch, and I do not intend to learn.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'A Raider\\'s Orders',author:'The warband chief',resolved:1b,generation:3,LoreId:26,pages:['{\"text\": \"Orders from the warband chief\\\\nSearch the chapels along the coast. The old adviser is wounded and hiding among priests. He may look like a beggar. Do not trust age, weakness, or holy robes.\"}','{\"text\": \"He served Arthur before the young king ever drew a sword. Some call him prophet, some call him devil. I do not care what name you use. A wounded snake still has teeth.\"}','{\"text\": \"Stop the bells where you find them. He uses them to draw travelers and send warnings through the fog. If he starts speaking charms, cut him down before he finishes. Bring proof, not excuses.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'Scrap from a Bandit\\'s Pouch',author:'Unknown hand',resolved:1b,generation:3,LoreId:27,pages:['{\"text\": \"The soldiers have pulled back. Road chapels are unguarded. Most have blankets, grain, cups, candle wax, sometimes coin hidden near the altar. Priests hide things badly because they think God is watching the lock.\"}','{\"text\": \"Take the places nearest the main road first. Move before the villagers hide what is left. If monks resist, make an example. If villagers beg, take what they carry and let them run. Frightened mouths spread news faster than dead ones.\"}','{\"text\": \"Do not touch gray-cloaked old men unless the chief is present. Last group tried it near the marsh chapel. Found two of them standing in the road at dawn, alive but empty-eyed. Third one was never found.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'A Ship in the Fog',author:'Arthur',resolved:1b,generation:3,LoreId:29,pages:['{\"text\": \"From the King\\'s own hand\\\\nMordred did not come to supper again. I sat with his cup filled and watched the candles go down. When he was a boy he could not keep still at table.\"}','{\"text\": \"Now he is a grown man, and I find I do not know where he goes, or what he thinks while he is there.\"}','{\"text\": \"Sir Bedivere came to me late. One of the coast guards had gone to his captain, and the captain to him, with a thing he did not like to say aloud. A ship off the western headland, at dusk, deep in the fog.\"}','{\"text\": \"No lamps. No banner the guard knew. It did not come in and it did not turn away. It only sat there on the grey water, as if it were waiting for something. Then the fog closed, and when it lifted the sea was empty.\"}','{\"text\": \"It may be nothing. A trader blown off course, a fisherman with no lamp oil. I told myself so twice. But the air in this hall has been thick for weeks, the way it is before a storm, and I have learned not to laugh at that feeling.\"}','{\"text\": \"So: the watch on the coast is doubled from tonight. The beacons are to be kept dry and ready. And the men in the far outposts are to come home, every one of them, before the first frost.\"}','{\"text\": \"I would rather have them close and feel foolish than leave them out there alone.\"}','{\"text\": \"I wish I could talk to Mordred about it. There was a time I told him everything first.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'The Empty Chair',author:'Arthur',resolved:1b,generation:3,LoreId:30,pages:['{\"text\": \"From the King\\'s own hand\\\\nMordred\\'s chair was empty at council this morning. That is the third time this month. Nobody had seen him since yesterday\\'s noon bell. His horse is in the stable. His bed was not slept in.\"}','{\"text\": \"I went to his rooms myself. The fire was cold. His cloak was gone, but his sword was still on its hook, and he never goes anywhere without that sword. I stood in the doorway longer than a king should.\"}','{\"text\": \"I have sent Bedivere\\'s men to look for him, quietly. The road, the harbour, the river. I told them to bring him home safe and to ask him nothing. Whatever trouble he is in, he can tell me himself when he is warm and fed.\"}','{\"text\": \"The last time he vanished he came back after two days with river mud to his knees and would not say where he had been. He smiled at me, and I let it go, because I was glad to see him. Perhaps I should not have.\"}','{\"text\": \"Some of the lords have begun to say things when they think I cannot hear. I will not listen to it. He is the boy I taught to ride. If he is keeping something from me, it is because he is hurting, not because he means me harm.\"}','{\"text\": \"It is nearly midnight. The chair is still empty. I will leave the door unbarred.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'Patrol Report: The Gorge',author:'Sergeant Pell',resolved:1b,generation:3,LoreId:31,pages:['{\"text\": \"Sergeant Pell, river patrol\\\\nReporting what I saw on the evening patrol, though the captain says to keep it between us. We came down the path to the gorge as the light went. The tide was in and the water was high against the rock.\"}','{\"text\": \"There was a man alone on the far bank. No lantern, no escort. Tall, dark cloak. When he turned his head I knew him. It was the prince. It was Mordred.\"}','{\"text\": \"He did not see us. He walked along the foot of the cliff to where the rock hangs out over the water, and then he waded in. Up to his waist, up to his chest, and then he ducked his head under the overhang and was gone.\"}','{\"text\": \"We waited a long time. He did not come back out. When the tide dropped a little I could see it: a gap in the rock, just above the water, black as a well. Cold air was coming out of it. It smelled of old stone and something else.\"}','{\"text\": \"Old Cadan in our troop grew up near here. He says that in the war, Vortigern\\'s people used the caves under the gorge, and that there is a lake in there under the mountain. He says Vortigern went down to that lake and gave it things.\"}','{\"text\": \"His own wife, Cadan says. His own children.\"}','{\"text\": \"I don\\'t hold with old men\\'s stories. But I don\\'t know what the King\\'s own nephew wants with a hole in the rock that the usurper used, and I didn\\'t like the look on his face when he went in. Someone should tell the King.\"}','{\"text\": \"The captain says it won\\'t be us.\"}']}"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "ancientpeaks_lore:village",
+      "required": false
+    },
+    {
+      "id": "ancientpeaks_lore:castle",
+      "required": false
+    },
+    {
+      "id": "ancientpeaks_lore:summit",
+      "required": false
+    },
+    {
+      "id": "ancientpeaks_lore:wizard_tower",
+      "required": false
+    },
+    {
+      "id": "ancientpeaks_lore:chapels",
+      "required": false
+    },
+    {
+      "id": "ancientpeaks_lore:roadside_cart",
+      "required": false
+    },
+    {
+      "id": "ancientpeaks_lore:wild_house",
+      "required": false
+    }
+  ]
+}

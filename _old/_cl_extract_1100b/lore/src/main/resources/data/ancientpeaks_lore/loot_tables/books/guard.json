@@ -1,0 +1,87 @@
+{
+ "type": "minecraft:chest",
+ "pools": [
+  {
+   "rolls": 1,
+   "entries": [
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'A Guard\\'s Unsent Letter',author:'A guard',resolved:1b,generation:3,LoreId:10,pages:['{\"text\": \"Dearest Elspeth,\\\\nI meant to send this with the grain cart, but the cart never came. Things here are not right. Men stop talking when I enter the room, and Commander Rhys has begun holding council after midnight.\"}','{\"text\": \"Two nights ago, I saw a hooded rider at the back gate. He gave Rhys a purse heavy enough to pull the leather flat. I did not hear every word, but I heard one name clearly: Vortigern.\"}','{\"text\": \"Captain Thomas found a sealed letter this morning. He read it once, burned it, and ordered double watch until further notice. Since then he keeps his sword close even indoors. I think some of our own have been bought.\"}','{\"text\": \"I should have told you to leave sooner.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'Watchman\\'s Log: The Western Sea',author:'The watchman',resolved:1b,generation:3,LoreId:11,pages:['{\"text\": \"Third Watch, Heavy Fog\\\\nNo ships left harbor today. Not one. A trader came ashore shaking so badly he could barely climb the ladder. He swore there were dark hulls beyond the reef, sitting without lamps.\"}','{\"text\": \"I asked how many. He said too many, then vomited into the tide. The harbor master called him drunk, but still ordered the chains raised across the inlet before sunset.\"}','{\"text\": \"We sent two riders inland. Neither has returned. The fog has soaked the page and put salt on my lips. If those ships come through tonight, this tower will serve as warning, not defense.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'Patrol Report: Northern Boundary',author:'Captain Andrew',resolved:1b,generation:3,LoreId:12,pages:['{\"text\": \"Captain Andrew reporting\\\\nWe reached the river bend by noon. Three farms abandoned. No bodies found. No livestock. One house still had porridge in the pot, gone cold and skinned over.\"}','{\"text\": \"In the second house, a cradle had been overturned. Sergeant Pell wanted to search the tree line, but our scout found boot tracks heading both north and west. Too many to read cleanly.\"}','{\"text\": \"Three straight cuts were marked into the pines along the road. The scout says Saxon hired men use them to mark safe paths. If true, they are walking deeper into Arthur\\'s lands than any enemy has dared in years.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'Guard Post 4: Midnight Watch',author:'Guard Post 4',resolved:1b,generation:3,LoreId:13,pages:['{\"text\": \"Scrawled on a wooden ledger\\\\nMidnight watch. Wind from the west. Light seen in the old tower across the gulch. That tower has been empty since the roof burned five winters ago.\"}','{\"text\": \"Sent John with three men. No answer to horn call. Light went out just after the moon came through cloud. We have barred the inner gate and put two men above the murder holes.\"}','{\"text\": \"No one is to open before dawn, no matter whose voice calls from outside. If John returns, he knows the lower signal. If he does not give it, then it is not John.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'The Last Inspection',author:'The captain',resolved:1b,generation:3,LoreId:14,pages:['{\"text\": \"Three archers deserted in the rain last night. They took two horses, a bow case, and most of the dry rations. By law, I should send men after them. I have not. I understand them too well.\"}','{\"text\": \"The pay chest arrived from the capital at noon. The lock was intact. The seal looked proper. Inside were river stones and scrap iron. The men saw before I could close the lid.\"}','{\"text\": \"I can command hungry soldiers for a while. I can command frightened ones for longer than most men think. But abandoned men are different. They look past you when you speak, as if already measuring the road home.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'Signals in the Fog',author:'The night watch',resolved:1b,generation:3,LoreId:15,pages:['{\"text\": \"To the morning watch: keep your eyes on the island headland. I saw red lantern flashes there three times after midnight. Short. Regular. Too deliberate to be a fisherman\\'s lamp.\"}','{\"text\": \"It was not our coast guard\\'s code. I checked the slate twice. Someone on that island is speaking to the ships in the coves, and they are answering without showing flame.\"}','{\"text\": \"Do not leave this tower empty, even for water. If the lamp goes dark, light it again. If I am gone when you arrive, take this to the harbor master and trust no one who tells you to wait.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'Patrol Report: The Gorge',author:'Sergeant Pell',resolved:1b,generation:3,LoreId:31,pages:['{\"text\": \"Sergeant Pell, river patrol\\\\nReporting what I saw on the evening patrol, though the captain says to keep it between us. We came down the path to the gorge as the light went. The tide was in and the water was high against the rock.\"}','{\"text\": \"There was a man alone on the far bank. No lantern, no escort. Tall, dark cloak. When he turned his head I knew him. It was the prince. It was Mordred.\"}','{\"text\": \"He did not see us. He walked along the foot of the cliff to where the rock hangs out over the water, and then he waded in. Up to his waist, up to his chest, and then he ducked his head under the overhang and was gone.\"}','{\"text\": \"We waited a long time. He did not come back out. When the tide dropped a little I could see it: a gap in the rock, just above the water, black as a well. Cold air was coming out of it. It smelled of old stone and something else.\"}','{\"text\": \"Old Cadan in our troop grew up near here. He says that in the war, Vortigern\\'s people used the caves under the gorge, and that there is a lake in there under the mountain. He says Vortigern went down to that lake and gave it things.\"}','{\"text\": \"His own wife, Cadan says. His own children.\"}','{\"text\": \"I don\\'t hold with old men\\'s stories. But I don\\'t know what the King\\'s own nephew wants with a hole in the rock that the usurper used, and I didn\\'t like the look on his face when he went in. Someone should tell the King.\"}','{\"text\": \"The captain says it won\\'t be us.\"}']}"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

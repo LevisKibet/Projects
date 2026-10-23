@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "ancientpeaks_lore:chapels",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 91266243,
+    "spacing": 1,
+    "separation": 0
+  }
+}

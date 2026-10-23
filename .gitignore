@@ -1,0 +1,27 @@
+# OS / editors
+.DS_Store
+.idea/
+*.iml
+.vscode/
+
+# Build output and caches (any project)
+build/
+.gradle/
+run/
+node_modules/
+logs/
+*.log
+*.log.gz
+
+# Packaged copies of the projects (the source is already in the repo)
+*.tar.gz
+*.zip
+*.jar
+!gradle-wrapper.jar
+
+# Secrets
+.env
+.env.local
+*.pem
+*.key
+*.keystore

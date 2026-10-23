@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "ancientpeaks_lore:castle",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 91242486,
+    "spacing": 1,
+    "separation": 0
+  }
+}

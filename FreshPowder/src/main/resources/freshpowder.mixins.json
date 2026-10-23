@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.ronald.freshpowder.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "freshpowder.refmap.json",
+  "mixins": ["ServerLevelMixin", "SnowLayerBlockMixin"],
+  "injectors": { "defaultRequire": 1 }
+}

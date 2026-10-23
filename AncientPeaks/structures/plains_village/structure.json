@@ -1,0 +1,12 @@
+{
+  "anchor": "plains_village",
+  "offset": [
+    0,
+    0,
+    0
+  ],
+  "terrain": "beard_thin",
+  "jigsaw_depth": 6,
+  "max_distance_from_center": 80,
+  "enabled": false
+}

@@ -1,0 +1,6 @@
+{
+  "type": "ancientpeaks:highlands",
+  "input": "ancientpeaks:wrapped",
+  "continents": "minecraft:overworld/noise_router/continents",
+  "seed_noise": "ancientpeaks:seed"
+}

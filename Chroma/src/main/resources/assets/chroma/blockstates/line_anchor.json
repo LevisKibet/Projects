@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=up": {
+      "model": "chroma:block/line_anchor"
+    },
+    "facing=down": {
+      "model": "chroma:block/line_anchor",
+      "x": 180
+    },
+    "facing=north": {
+      "model": "chroma:block/line_anchor",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "chroma:block/line_anchor",
+      "x": 90,
+      "y": 180
+    },
+    "facing=west": {
+      "model": "chroma:block/line_anchor",
+      "x": 90,
+      "y": 270
+    },
+    "facing=east": {
+      "model": "chroma:block/line_anchor",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+ "type": "minecraft:chest",
+ "pools": [
+  {
+   "rolls": 1,
+   "entries": [
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'Dockmaster\\'s Tally',author:'The dockmaster',resolved:1b,generation:3,LoreId:23,pages:['{\"text\": \"Port Ledger, Logres Trade\\\\n\\\\u2022 Sea Lark: Returned without cargo. Captain reports the harbor gates at Logres are barred.\\\\n\\\\u2022 White Seagull: Seven days overdue. Last seen westbound in fog.\"}','{\"text\": \"\\\\u2022 Martha\\'s Grace: Refused clearance despite fair wind. Crew claims the western lighthouse has gone dark.\\\\n\\\\u2022 Little Hart: Nets cut loose. Owner says he will burn the boat before sailing near the reef again.\"}','{\"text\": \"No vessels cleared today. The crews are sleeping in the tavern with their boots on. I checked the lighthouse twice myself after sunset. No flame. I have served this harbor thirty years and have never seen that tower dark.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'Sailor\\'s Tavern Rumor',author:'Unknown hand',resolved:1b,generation:3,LoreId:24,pages:['{\"text\": \"Scrawled on a stained page\\\\nBarnaby says he saw light on the island ridge while fishing beyond the reef. Blue light, he says, though everyone knows he drinks too much when the weather turns.\"}','{\"text\": \"He says the fog opened for a breath and the high meadow shone like moonlight under water. Shapes stood along the ridge. Tall ones. Still as stones. Then lightning flashed, though no storm followed.\"}','{\"text\": \"The men laughed and told him to drink his ale. But Barnaby has not put his boat out since. That troubles me more than the story. Barnaby would sail in a storm for a good catch.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'A Fisherman\\'s Warning',author:'A fisherman',resolved:1b,generation:3,LoreId:25,pages:['{\"text\": \"Keep clear of the black stone arch by the Highland Gate. My boy and I lost two good nets there yesterday. They came up sliced clean through, not torn on rock or bitten by seal.\"}','{\"text\": \"The water under the arch is cold enough to numb your hands, even in summer. When the tide turns, a hum comes up through the hull and settles in your teeth.\"}','{\"text\": \"My boy said he heard someone speaking below us. I told him it was the water, because fathers say such things when they are afraid. I do not know what lives under that arch, and I do not intend to learn.\"}']}"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

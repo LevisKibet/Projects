@@ -1,0 +1,33 @@
+newmtl hide
+Kd 0.0941 0.0706 0.1569
+d 1.0
+
+newmtl hide_under
+Kd 0.1333 0.1020 0.2039
+d 1.0
+
+newmtl brow
+Kd 0.0627 0.0471 0.1098
+d 1.0
+
+newmtl horn
+Kd 0.1569 0.1333 0.1882
+d 1.0
+
+newmtl eye
+Kd 0.9098 0.8863 0.7451
+d 1.0
+Ke 0.9098 0.8863 0.7451
+
+newmtl pupil
+Kd 0.0549 0.0392 0.0314
+d 1.0
+
+newmtl nostril
+Kd 0.0235 0.0157 0.0392
+d 1.0
+
+newmtl teeth
+Kd 0.5882 0.5490 0.4706
+d 1.0
+

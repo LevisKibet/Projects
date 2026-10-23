@@ -1,0 +1,97 @@
+[
+  {
+    "select": {
+      "name": "ancientpeaks:highland_forest"
+    },
+    "apply": {
+      "species": {
+        "random": {
+          "spruce": 3,
+          "oak": 2,
+          "birch": 1
+        }
+      },
+      "density": [
+        0.9
+      ],
+      "chance": 0.9,
+      "forestness": 0.8
+    }
+  },
+  {
+    "select": {
+      "name": "ancientpeaks:ancient_highlands"
+    },
+    "apply": {
+      "species": {
+        "random": {
+          "spruce": 4,
+          "mega_spruce": 1
+        }
+      },
+      "density": [
+        0.4
+      ],
+      "chance": 0.5
+    }
+  },
+  {
+    "select": {
+      "name": "ancientpeaks:highland_plains"
+    },
+    "apply": {
+      "species": {
+        "random": {
+          "spruce": 3,
+          "oak": 2,
+          "birch": 1
+        }
+      },
+      "density": [
+        0.35
+      ],
+      "chance": 0.4
+    }
+  },
+  {
+    "select": {
+      "name": "ancientpeaks:highland_meadow"
+    },
+    "apply": {
+      "species": {
+        "random": {
+          "oak": 3,
+          "birch": 1
+        }
+      },
+      "density": [
+        0.1
+      ],
+      "chance": 0.1
+    }
+  },
+  {
+    "select": {
+      "name": "ancientpeaks:highland_tarn"
+    },
+    "apply": {
+      "species": "azalea",
+      "density": [
+        0.3
+      ],
+      "chance": 0.3
+    }
+  },
+  {
+    "select": {
+      "name": "ancientpeaks:highland_(gorge|shore|peaks)"
+    },
+    "apply": {
+      "species": "null",
+      "density": [
+        1.0
+      ],
+      "chance": 1.0
+    }
+  }
+]

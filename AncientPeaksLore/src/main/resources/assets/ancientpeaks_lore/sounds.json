@@ -1,0 +1,20 @@
+{
+  "music.merlin": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "ancientpeaks_lore:music/merlin",
+        "stream": true
+      }
+    ]
+  },
+  "music.vortigern": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "ancientpeaks_lore:music/vortigern",
+        "stream": true
+      }
+    ]
+  }
+}

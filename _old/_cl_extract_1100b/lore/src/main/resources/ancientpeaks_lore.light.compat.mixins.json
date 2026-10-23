@@ -1,0 +1,15 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+  "package": "com.ronald.ancientpeaks_lore.light.mixin.compat",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "ancientpeaks_lore.refmap.json",
+  "client": [
+    "EmbeddiumBlockRendererMixin",
+    "LuxiumLightColourMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  },
+  "plugin": "com.ronald.ancientpeaks_lore.light.mixin.LightMixinPlugin"
+}

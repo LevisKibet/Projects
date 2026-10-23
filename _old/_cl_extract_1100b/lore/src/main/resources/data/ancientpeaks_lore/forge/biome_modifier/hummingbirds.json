@@ -1,0 +1,19 @@
+{
+  "forge:conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "alexsmobs"
+    }
+  ],
+  "type": "forge:add_spawns",
+  "biomes": [
+    "ancientpeaks:highland_plains",
+    "ancientpeaks:highland_meadow"
+  ],
+  "spawners": {
+    "type": "alexsmobs:hummingbird",
+    "weight": 14,
+    "minCount": 2,
+    "maxCount": 4
+  }
+}

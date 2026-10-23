@@ -1,0 +1,16 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "ancientpeaks:highland_plains",
+    "ancientpeaks:highland_meadow",
+    "ancientpeaks:highland_forest",
+    "ancientpeaks:ancient_highlands",
+    "ancientpeaks:highland_shore"
+  ],
+  "spawners": {
+    "type": "ancientpeaks_lore:saxon_raider",
+    "weight": 22,
+    "minCount": 2,
+    "maxCount": 4
+  }
+}

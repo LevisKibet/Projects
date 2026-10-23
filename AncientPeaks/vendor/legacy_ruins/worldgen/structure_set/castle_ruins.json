@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "ancientpeaks:castle_ruin",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 918273645,
+    "spacing": 12,
+    "separation": 4
+  }
+}

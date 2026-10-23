@@ -1,0 +1,55 @@
+{
+  "type": "minecraft:vegetation_patch",
+  "config": {
+    "depth": {
+      "type": "minecraft:uniform",
+      "value": {
+        "min_inclusive": 1,
+        "max_inclusive": 2
+      }
+    },
+    "extra_bottom_block_chance": 0.0,
+    "extra_edge_column_chance": 0.4,
+    "ground_state": {
+      "type": "minecraft:weighted_state_provider",
+      "entries": [
+        {
+          "data": {
+            "Name": "minecraft:grass_block",
+            "Properties": {
+              "snowy": "false"
+            }
+          },
+          "weight": 7
+        },
+        {
+          "data": {
+            "Name": "minecraft:moss_block"
+          },
+          "weight": 2
+        },
+        {
+          "data": {
+            "Name": "minecraft:coarse_dirt"
+          },
+          "weight": 1
+        }
+      ]
+    },
+    "replaceable": "#ancientpeaks:ledge_replaceable",
+    "surface": "floor",
+    "vegetation_chance": 0.3,
+    "vegetation_feature": {
+      "feature": "ancientpeaks:ledge_plants",
+      "placement": []
+    },
+    "vertical_range": 6,
+    "xz_radius": {
+      "type": "minecraft:uniform",
+      "value": {
+        "min_inclusive": 3,
+        "max_inclusive": 6
+      }
+    }
+  }
+}

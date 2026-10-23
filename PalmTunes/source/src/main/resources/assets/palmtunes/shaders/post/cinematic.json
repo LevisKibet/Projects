@@ -1,0 +1,59 @@
+{
+  "targets": [
+    "swapA",
+    "swapB",
+    {
+      "name": "half",
+      "width": 2,
+      "height": 2
+    }
+  ],
+  "passes": [
+    {
+      "name": "palmtunes:dof_half",
+      "intarget": "minecraft:main",
+      "outtarget": "half",
+      "auxtargets": [
+        {
+          "name": "DepthSampler",
+          "id": "minecraft:main:depth"
+        }
+      ]
+    },
+    {
+      "name": "palmtunes:dof_merge",
+      "intarget": "minecraft:main",
+      "outtarget": "swapA",
+      "auxtargets": [
+        {
+          "name": "DepthSampler",
+          "id": "minecraft:main:depth"
+        },
+        {
+          "name": "HalfSampler",
+          "id": "half"
+        }
+      ]
+    },
+    {
+      "name": "palmtunes:motion",
+      "intarget": "swapA",
+      "outtarget": "swapB"
+    },
+    {
+      "name": "palmtunes:copy",
+      "intarget": "swapB",
+      "outtarget": "minecraft:main"
+    },
+    {
+      "name": "palmtunes:motion",
+      "intarget": "minecraft:main",
+      "outtarget": "swapB"
+    },
+    {
+      "name": "palmtunes:copy",
+      "intarget": "swapA",
+      "outtarget": "minecraft:main"
+    }
+  ]
+}

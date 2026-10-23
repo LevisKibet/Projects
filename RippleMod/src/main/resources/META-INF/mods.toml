@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="ripplemod"
+version="1.3.1"
+displayName="Water Ripple Mod"
+description="Wave-simulated ripples, wakes and splashes on water, plus wet sand and foam on beaches."
+
+[[dependencies.ripplemod]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47.2.0,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.ripplemod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"

@@ -1,0 +1,68 @@
+{
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ancientpeaks:ruins/round_tower_a",
+        "processors": "ancientpeaks:weathering",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ancientpeaks:ruins/round_tower_b",
+        "processors": "ancientpeaks:weathering",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ancientpeaks:ruins/keep_a",
+        "processors": "ancientpeaks:weathering",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ancientpeaks:ruins/keep_b",
+        "processors": "ancientpeaks:weathering",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ancientpeaks:ruins/gate_wall_a",
+        "processors": "ancientpeaks:weathering",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ancientpeaks:ruins/gate_wall_b",
+        "processors": "ancientpeaks:weathering",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ancientpeaks:ruins/old_henge",
+        "processors": "ancientpeaks:weathering",
+        "projection": "rigid"
+      }
+    }
+  ]
+}

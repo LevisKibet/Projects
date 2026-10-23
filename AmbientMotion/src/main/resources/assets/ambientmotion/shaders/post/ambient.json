@@ -1,0 +1,13 @@
+{
+    "targets": [ "swapA", "swapB", { "name": "half", "width": 2, "height": 2 } ],
+    "passes": [
+        { "name": "ambientmotion:dof_half", "intarget": "minecraft:main", "outtarget": "half",
+          "auxtargets": [ { "name": "DepthSampler", "id": "minecraft:main:depth" } ] },
+        { "name": "ambientmotion:dof_merge", "intarget": "minecraft:main", "outtarget": "swapA",
+          "auxtargets": [ { "name": "DepthSampler", "id": "minecraft:main:depth" }, { "name": "HalfSampler", "id": "half" } ] },
+        { "name": "ambientmotion:motion", "intarget": "swapA", "outtarget": "swapB" },
+        { "name": "ambientmotion:copy", "intarget": "swapB", "outtarget": "minecraft:main" },
+        { "name": "ambientmotion:motion", "intarget": "minecraft:main", "outtarget": "swapB" },
+        { "name": "ambientmotion:copy", "intarget": "swapA", "outtarget": "minecraft:main" }
+    ]
+}

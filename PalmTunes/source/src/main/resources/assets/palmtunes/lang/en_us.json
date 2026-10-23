@@ -1,0 +1,17 @@
+{
+  "key.categories.palmtunes": "PalmTunes",
+  "key.palmtunes.toggle": "Open Music Palm",
+  "screen.palmtunes.title": "Music Palm",
+  "palmtunes.ui.nothing_playing": "Nothing playing",
+  "palmtunes.ui.nothing_hint": "Start Spotify, Apple Music, YouTube Music or Deezer",
+  "palmtunes.ui.unavailable": "Media control unavailable",
+  "palmtunes.ui.unknown_title": "Unknown title",
+  "palmtunes.ui.unknown_artist": "Unknown artist",
+  "palmtunes.ui.playing_in": "Playing in %s",
+  "palmtunes.ui.paused_in": "Paused in %s",
+  "palmtunes.hud.idle_hint": "Open a music app and start playing something",
+  "palmtunes.config.title": "PalmTunes",
+  "palmtunes.ui.up_next": "UP NEXT",
+  "palmtunes.ui.queue_unavailable": "This player doesn't share its queue.",
+  "palmtunes.ui.queue_shuffled": "Shuffle is on, so the order is a surprise."
+}

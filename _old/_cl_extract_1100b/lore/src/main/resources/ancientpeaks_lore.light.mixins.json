@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.ronald.ancientpeaks_lore.light.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "ancientpeaks_lore.refmap.json",
+  "client": [
+    "PostChainAccessor",
+    "LevelRendererLightMixin",
+    "EntityRendererLightMixin",
+    "LevelRendererBlockMixin",
+    "ModelBlockRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "plugin": "com.ronald.ancientpeaks_lore.light.mixin.LightMixinPlugin"
+}

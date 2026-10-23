@@ -1,0 +1,15 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+  "package": "com.ronald.chroma.light.mixin.compat",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "chroma.refmap.json",
+  "client": [
+    "EmbeddiumBlockRendererMixin",
+    "LuxiumLightColourMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  },
+  "plugin": "com.ronald.chroma.light.mixin.LightMixinPlugin"
+}

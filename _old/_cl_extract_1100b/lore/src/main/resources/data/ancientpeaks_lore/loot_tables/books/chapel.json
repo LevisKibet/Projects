@@ -1,0 +1,87 @@
+{
+ "type": "minecraft:chest",
+ "pools": [
+  {
+   "rolls": 1,
+   "entries": [
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'Sanctuaries of the High King',author:'Brother Bran',resolved:1b,generation:3,LoreId:16,pages:['{\"text\": \"From the writings of Brother Bran\\\\nIn the first years of Arthur\\'s reign, he ordered small chapels built along the old roads. They were plain places: a hearth, a bell, clean straw, and a locked store of grain for winter travelers.\"}','{\"text\": \"Some nobles called it wasteful. The King answered that a road was only truly royal if a poor man could walk it without fearing the dark. I copied those words often when I was young.\"}','{\"text\": \"They feel heavier now. The roads are empty, the bells carry farther than they should, and men arrive at our door with blood frozen into their sleeves. Still, the fire is lit each night. A promise is not kept only in good weather.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'The Empty Barracks',author:'A monk',resolved:1b,generation:3,LoreId:17,pages:['{\"text\": \"12th Day of Sun-Ebb\\\\nThe soldiers left before dawn. Captain Andrew read the order by lantern-light and would not meet our eyes. They took the horses, the arrows, and nearly all the salted beef.\"}','{\"text\": \"Brother Silas asked who would guard the chapel now. The captain said nothing for a long while. Then he looked toward the water and told us to bar the gate at sunset.\"}','{\"text\": \"We are four monks, two old spears, and a bell. I have written that sentence three times because it does not improve by being written neatly. I am ashamed to say I am afraid.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'Unsent Letter to the Abbot',author:'A monk',resolved:1b,generation:3,LoreId:18,pages:['{\"text\": \"To Father Julian,\\\\nThe supply wagons are three weeks overdue. We have half a sack of barley left, no lamp oil to spare, and the candles are burned so low that Brother Luke saves the melted wax in a cup.\"}','{\"text\": \"A peddler came through saying Logres has shut its gates. He may have lied for a meal. Men do that when hungry. Still, he knew the names of two streets near the harbor and wept when he spoke of them.\"}','{\"text\": \"If no bread comes by fortnight, we must decide whether staying here helps anyone at all. I used to think abandoning a sanctuary was a sin. Now I wonder whether letting people starve inside one is worse.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'Ashes on the Altar',author:'Unknown hand',resolved:1b,generation:3,LoreId:19,pages:['{\"text\": \"Written in haste\\\\nThey came after midnight. In better days, even thieves feared sanctuary ground. Not now. They knew the guards had gone. They knew no riders would come.\"}','{\"text\": \"They broke the stained glass and took the cup from the altar. I heard one of them laugh because it was only brass under the gold wash. Then they fired the rafters for spite.\"}','{\"text\": \"I am in the bell loft with two children from the village. The smoke is coming through the boards. One child is praying. The other has not spoken. If this is found, tell Father Julian we stayed. Tell him we kept the bell ringing until,\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'The Overgrown Sanctuary',author:'A monk',resolved:1b,generation:3,LoreId:20,pages:['{\"text\": \"A year has passed since the soldiers marched away. The roof still holds over the altar, though rain falls freely in the north aisle. Ivy has reached the windows. Brambles grow where the benches stood.\"}','{\"text\": \"The bell rope rotted through in spring. For a while, Brother Luke climbed the ladder and rang it by hand, but then his cough worsened and no one asked him again.\"}','{\"text\": \"No travelers come now. The road is mud, then grass, then nothing. We used to think stone meant permanence. It does not. Without hands to mend it, even a holy place becomes part of the wood.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'Brother Thomas\\'s Notes',author:'Brother Thomas',resolved:1b,generation:3,LoreId:21,pages:['{\"text\": \"10th Day of Rain\\\\nThree people came from the coastal road today. One had a cut across the scalp. One would not stop shaking. The third kept asking whether the ships had landed, though none of us had spoken of ships.\"}','{\"text\": \"They carried no bags. That frightened me more than the wounds. A person who flees with nothing has either lost everything or seen something that made belongings feel foolish.\"}','{\"text\": \"I told Brother Luke to ring the bell each hour through the mist. Some may hear it and come to safety. Others may hear it too. I know this, but silence feels worse.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'Sanctuary Ledger: Unnamed Guests',author:'The sanctuary',resolved:1b,generation:3,LoreId:22,pages:['{\"text\": \"Guest Register\\\\n\\\\u2022 4th Nov: Family of five from the eastern farms. Given straw, broth, and one loaf. Youngest child feverish.\\\\n\\\\u2022 7th Nov: Knight with burned armor. Refused name. Slept sitting upright. Left before dawn.\"}','{\"text\": \"\\\\u2022 9th Nov: Two brothers from the mill road. One missing three fingers. Paid with a silver button. Returned button when they slept.\\\\n\\\\u2022 12th Nov: Old man in a gray cloak. Wound in his side. No coin, no weapon.\"}','{\"text\": \"The old man speaks gently, but men obey him before noticing they have done so. He asked that the bell be rung if strangers approach. Brother Silas thinks he is a lord in hiding. I think he is older than any lord.\"}']}"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+{
+  "type": "ancientpeaks_lore:site",
+  "site": "wizard_tower",
+  "biomes": "#ancientpeaks_lore:island",
+  "step": "surface_structures",
+  "terrain_adaptation": "none",
+  "spawn_overrides": {}
+}

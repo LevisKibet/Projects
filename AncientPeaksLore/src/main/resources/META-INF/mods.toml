@@ -1,0 +1,47 @@
+modLoader="javafml"
+loaderVersion="${loader_version_range}"
+license="${mod_license}"
+
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="${mod_name}"
+authors="${mod_authors}"
+description='''${mod_description}'''
+
+[[dependencies.${mod_id}]]
+    modId="forge"
+    mandatory=true
+    versionRange="${forge_version_range}"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.${mod_id}]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="${minecraft_version_range}"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.${mod_id}]]
+    # Checked by hand in the mod's constructor instead, so a missing or old copy is reported as "Ruins of Logres"
+    # rather than by its internal id.
+    modId="ancientpeaks"
+    mandatory=false
+    versionRange="*"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.${mod_id}]]
+    modId="geckolib"
+    mandatory=true
+    versionRange="[4.4,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.${mod_id}]]
+    modId="epicfight"
+    mandatory=true
+    versionRange="[20.14,)"
+    ordering="AFTER"
+    side="BOTH"
+
+# Ancient Peaks keeps making its own Highland Gateways until this is true (the lore mod's quest takes them over later).
+[modproperties.${mod_id}]
+    takesOverGateways="false"

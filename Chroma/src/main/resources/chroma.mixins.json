@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.ronald.chroma.light.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "chroma.refmap.json",
+  "client": [
+    "PostChainAccessor",
+    "LevelRendererLightMixin",
+    "EntityRendererLightMixin",
+    "LevelRendererBlockMixin",
+    "ModelBlockRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "plugin": "com.ronald.chroma.light.mixin.LightMixinPlugin"
+}

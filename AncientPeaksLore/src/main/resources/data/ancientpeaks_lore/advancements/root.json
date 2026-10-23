@@ -1,0 +1,21 @@
+{
+  "display": {
+    "icon": {
+      "item": "ancientpeaks_lore:compendium"
+    },
+    "title": {
+      "translate": "advancements.ancientpeaks_lore.root.title"
+    },
+    "description": {
+      "translate": "advancements.ancientpeaks_lore.root.description"
+    },
+    "background": "minecraft:textures/block/mossy_stone_bricks.png",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "arrived": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

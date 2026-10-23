@@ -1,0 +1,33 @@
+{
+  "parent": "ancientpeaks_lore:root",
+  "display": {
+    "icon": {
+      "item": "ancientpeaks_lore:vortigern_sword"
+    },
+    "title": {
+      "translate": "advancements.ancientpeaks_lore.usurper.title"
+    },
+    "description": {
+      "translate": "advancements.ancientpeaks_lore.usurper.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "slain": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "ancientpeaks_lore:vortigern"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

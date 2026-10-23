@@ -1,0 +1,22 @@
+{
+  "parent": "ancientpeaks_lore:root",
+  "display": {
+    "icon": {
+      "item": "minecraft:written_book"
+    },
+    "title": {
+      "translate": "advancements.ancientpeaks_lore.exposition.title"
+    },
+    "description": {
+      "translate": "advancements.ancientpeaks_lore.exposition.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "read_all": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

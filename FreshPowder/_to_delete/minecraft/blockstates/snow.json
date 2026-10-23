@@ -1,0 +1,469 @@
+{
+ "variants": {
+  "layers=1": [
+   {
+    "model": "freshpowder:block/snow_1_a"
+   },
+   {
+    "model": "freshpowder:block/snow_1_a",
+    "y": 90
+   },
+   {
+    "model": "freshpowder:block/snow_1_a",
+    "y": 180
+   },
+   {
+    "model": "freshpowder:block/snow_1_a",
+    "y": 270
+   },
+   {
+    "model": "freshpowder:block/snow_1_b"
+   },
+   {
+    "model": "freshpowder:block/snow_1_b",
+    "y": 90
+   },
+   {
+    "model": "freshpowder:block/snow_1_b",
+    "y": 180
+   },
+   {
+    "model": "freshpowder:block/snow_1_b",
+    "y": 270
+   },
+   {
+    "model": "freshpowder:block/snow_1_c"
+   },
+   {
+    "model": "freshpowder:block/snow_1_c",
+    "y": 90
+   },
+   {
+    "model": "freshpowder:block/snow_1_c",
+    "y": 180
+   },
+   {
+    "model": "freshpowder:block/snow_1_c",
+    "y": 270
+   },
+   {
+    "model": "freshpowder:block/snow_1_d"
+   },
+   {
+    "model": "freshpowder:block/snow_1_d",
+    "y": 90
+   },
+   {
+    "model": "freshpowder:block/snow_1_d",
+    "y": 180
+   },
+   {
+    "model": "freshpowder:block/snow_1_d",
+    "y": 270
+   },
+   {
+    "model": "freshpowder:block/snow_1_f",
+    "weight": 4
+   }
+  ],
+  "layers=2": [
+   {
+    "model": "freshpowder:block/snow_2_a"
+   },
+   {
+    "model": "freshpowder:block/snow_2_a",
+    "y": 90
+   },
+   {
+    "model": "freshpowder:block/snow_2_a",
+    "y": 180
+   },
+   {
+    "model": "freshpowder:block/snow_2_a",
+    "y": 270
+   },
+   {
+    "model": "freshpowder:block/snow_2_b"
+   },
+   {
+    "model": "freshpowder:block/snow_2_b",
+    "y": 90
+   },
+   {
+    "model": "freshpowder:block/snow_2_b",
+    "y": 180
+   },
+   {
+    "model": "freshpowder:block/snow_2_b",
+    "y": 270
+   },
+   {
+    "model": "freshpowder:block/snow_2_c"
+   },
+   {
+    "model": "freshpowder:block/snow_2_c",
+    "y": 90
+   },
+   {
+    "model": "freshpowder:block/snow_2_c",
+    "y": 180
+   },
+   {
+    "model": "freshpowder:block/snow_2_c",
+    "y": 270
+   },
+   {
+    "model": "freshpowder:block/snow_2_d"
+   },
+   {
+    "model": "freshpowder:block/snow_2_d",
+    "y": 90
+   },
+   {
+    "model": "freshpowder:block/snow_2_d",
+    "y": 180
+   },
+   {
+    "model": "freshpowder:block/snow_2_d",
+    "y": 270
+   },
+   {
+    "model": "freshpowder:block/snow_2_f",
+    "weight": 4
+   }
+  ],
+  "layers=3": [
+   {
+    "model": "freshpowder:block/snow_3_a"
+   },
+   {
+    "model": "freshpowder:block/snow_3_a",
+    "y": 90
+   },
+   {
+    "model": "freshpowder:block/snow_3_a",
+    "y": 180
+   },
+   {
+    "model": "freshpowder:block/snow_3_a",
+    "y": 270
+   },
+   {
+    "model": "freshpowder:block/snow_3_b"
+   },
+   {
+    "model": "freshpowder:block/snow_3_b",
+    "y": 90
+   },
+   {
+    "model": "freshpowder:block/snow_3_b",
+    "y": 180
+   },
+   {
+    "model": "freshpowder:block/snow_3_b",
+    "y": 270
+   },
+   {
+    "model": "freshpowder:block/snow_3_c"
+   },
+   {
+    "model": "freshpowder:block/snow_3_c",
+    "y": 90
+   },
+   {
+    "model": "freshpowder:block/snow_3_c",
+    "y": 180
+   },
+   {
+    "model": "freshpowder:block/snow_3_c",
+    "y": 270
+   },
+   {
+    "model": "freshpowder:block/snow_3_d"
+   },
+   {
+    "model": "freshpowder:block/snow_3_d",
+    "y": 90
+   },
+   {
+    "model": "freshpowder:block/snow_3_d",
+    "y": 180
+   },
+   {
+    "model": "freshpowder:block/snow_3_d",
+    "y": 270
+   },
+   {
+    "model": "freshpowder:block/snow_3_f",
+    "weight": 4
+   }
+  ],
+  "layers=4": [
+   {
+    "model": "freshpowder:block/snow_4_a"
+   },
+   {
+    "model": "freshpowder:block/snow_4_a",
+    "y": 90
+   },
+   {
+    "model": "freshpowder:block/snow_4_a",
+    "y": 180
+   },
+   {
+    "model": "freshpowder:block/snow_4_a",
+    "y": 270
+   },
+   {
+    "model": "freshpowder:block/snow_4_b"
+   },
+   {
+    "model": "freshpowder:block/snow_4_b",
+    "y": 90
+   },
+   {
+    "model": "freshpowder:block/snow_4_b",
+    "y": 180
+   },
+   {
+    "model": "freshpowder:block/snow_4_b",
+    "y": 270
+   },
+   {
+    "model": "freshpowder:block/snow_4_c"
+   },
+   {
+    "model": "freshpowder:block/snow_4_c",
+    "y": 90
+   },
+   {
+    "model": "freshpowder:block/snow_4_c",
+    "y": 180
+   },
+   {
+    "model": "freshpowder:block/snow_4_c",
+    "y": 270
+   },
+   {
+    "model": "freshpowder:block/snow_4_d"
+   },
+   {
+    "model": "freshpowder:block/snow_4_d",
+    "y": 90
+   },
+   {
+    "model": "freshpowder:block/snow_4_d",
+    "y": 180
+   },
+   {
+    "model": "freshpowder:block/snow_4_d",
+    "y": 270
+   },
+   {
+    "model": "freshpowder:block/snow_4_f",
+    "weight": 4
+   }
+  ],
+  "layers=5": [
+   {
+    "model": "freshpowder:block/snow_5_a"
+   },
+   {
+    "model": "freshpowder:block/snow_5_a",
+    "y": 90
+   },
+   {
+    "model": "freshpowder:block/snow_5_a",
+    "y": 180
+   },
+   {
+    "model": "freshpowder:block/snow_5_a",
+    "y": 270
+   },
+   {
+    "model": "freshpowder:block/snow_5_b"
+   },
+   {
+    "model": "freshpowder:block/snow_5_b",
+    "y": 90
+   },
+   {
+    "model": "freshpowder:block/snow_5_b",
+    "y": 180
+   },
+   {
+    "model": "freshpowder:block/snow_5_b",
+    "y": 270
+   },
+   {
+    "model": "freshpowder:block/snow_5_c"
+   },
+   {
+    "model": "freshpowder:block/snow_5_c",
+    "y": 90
+   },
+   {
+    "model": "freshpowder:block/snow_5_c",
+    "y": 180
+   },
+   {
+    "model": "freshpowder:block/snow_5_c",
+    "y": 270
+   },
+   {
+    "model": "freshpowder:block/snow_5_d"
+   },
+   {
+    "model": "freshpowder:block/snow_5_d",
+    "y": 90
+   },
+   {
+    "model": "freshpowder:block/snow_5_d",
+    "y": 180
+   },
+   {
+    "model": "freshpowder:block/snow_5_d",
+    "y": 270
+   },
+   {
+    "model": "freshpowder:block/snow_5_f",
+    "weight": 4
+   }
+  ],
+  "layers=6": [
+   {
+    "model": "freshpowder:block/snow_6_a"
+   },
+   {
+    "model": "freshpowder:block/snow_6_a",
+    "y": 90
+   },
+   {
+    "model": "freshpowder:block/snow_6_a",
+    "y": 180
+   },
+   {
+    "model": "freshpowder:block/snow_6_a",
+    "y": 270
+   },
+   {
+    "model": "freshpowder:block/snow_6_b"
+   },
+   {
+    "model": "freshpowder:block/snow_6_b",
+    "y": 90
+   },
+   {
+    "model": "freshpowder:block/snow_6_b",
+    "y": 180
+   },
+   {
+    "model": "freshpowder:block/snow_6_b",
+    "y": 270
+   },
+   {
+    "model": "freshpowder:block/snow_6_c"
+   },
+   {
+    "model": "freshpowder:block/snow_6_c",
+    "y": 90
+   },
+   {
+    "model": "freshpowder:block/snow_6_c",
+    "y": 180
+   },
+   {
+    "model": "freshpowder:block/snow_6_c",
+    "y": 270
+   },
+   {
+    "model": "freshpowder:block/snow_6_d"
+   },
+   {
+    "model": "freshpowder:block/snow_6_d",
+    "y": 90
+   },
+   {
+    "model": "freshpowder:block/snow_6_d",
+    "y": 180
+   },
+   {
+    "model": "freshpowder:block/snow_6_d",
+    "y": 270
+   },
+   {
+    "model": "freshpowder:block/snow_6_f",
+    "weight": 4
+   }
+  ],
+  "layers=7": [
+   {
+    "model": "freshpowder:block/snow_7_a"
+   },
+   {
+    "model": "freshpowder:block/snow_7_a",
+    "y": 90
+   },
+   {
+    "model": "freshpowder:block/snow_7_a",
+    "y": 180
+   },
+   {
+    "model": "freshpowder:block/snow_7_a",
+    "y": 270
+   },
+   {
+    "model": "freshpowder:block/snow_7_b"
+   },
+   {
+    "model": "freshpowder:block/snow_7_b",
+    "y": 90
+   },
+   {
+    "model": "freshpowder:block/snow_7_b",
+    "y": 180
+   },
+   {
+    "model": "freshpowder:block/snow_7_b",
+    "y": 270
+   },
+   {
+    "model": "freshpowder:block/snow_7_c"
+   },
+   {
+    "model": "freshpowder:block/snow_7_c",
+    "y": 90
+   },
+   {
+    "model": "freshpowder:block/snow_7_c",
+    "y": 180
+   },
+   {
+    "model": "freshpowder:block/snow_7_c",
+    "y": 270
+   },
+   {
+    "model": "freshpowder:block/snow_7_d"
+   },
+   {
+    "model": "freshpowder:block/snow_7_d",
+    "y": 90
+   },
+   {
+    "model": "freshpowder:block/snow_7_d",
+    "y": 180
+   },
+   {
+    "model": "freshpowder:block/snow_7_d",
+    "y": 270
+   },
+   {
+    "model": "freshpowder:block/snow_7_f",
+    "weight": 4
+   }
+  ],
+  "layers=8": {
+   "model": "minecraft:block/snow_block"
+  }
+ }
+}

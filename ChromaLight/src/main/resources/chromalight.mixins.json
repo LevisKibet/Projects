@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.ronald.chromalight.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "chromalight.refmap.json",
+  "client": [
+    "PostChainAccessor",
+    "LevelRendererLightMixin",
+    "EntityRendererLightMixin",
+    "LevelRendererBlockMixin",
+    "ModelBlockRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

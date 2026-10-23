@@ -1,0 +1,21 @@
+{
+ "type": "minecraft:chest",
+ "pools": [
+  {
+   "rolls": 1,
+   "entries": [
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'Merlin\\'s Journal',author:'Merlin',resolved:1b,generation:3,LoreId:28,pages:['{\"text\": \"Written by a hand that shakes more than it did\\\\nI have kept no journal in four hundred years. Memory was enough. It is not enough now. The wound in my side takes a little more of me each night, and I would leave something behind that is not a legend.\"}','{\"text\": \"A hundred winters ago Arthur met Vortigern on the high meadow of Logres, across the western sea. Steel against steel, king against usurper. I watched from the stones. I should have done more than watch.\"}','{\"text\": \"Vortigern struck a coward\\'s blow, and Arthur knew he was dying. If the usurper took the blade, the kingdom was lost. So he did the only thing left to him.\"}','{\"text\": \"Years before, I had carved a binding ward into the pedestal on that meadow, a precaution, I told myself. Arthur drove Excalibur down into it with the last of his strength.\"}','{\"text\": \"The ward took the sword, and the king\\'s life with it, and froze Vortigern to stone beside him, still reaching.\"}','{\"text\": \"Vortigern\\'s warbands came up the meadow and found their chief turned to stone. They would have had me next. I ran. The old gate on the shore carried me across the water to this side, and I have not been strong enough to open it since.\"}','{\"text\": \"They never went home. They wait for their chief to wake, and they know I am the only one who remembers how the ward was carved. So they hunt old men in grey cloaks along the roads. They caught me at the marsh chapel.\"}','{\"text\": \"The brothers there hid me, and I repaid them by bringing the raiders to their door.\"}','{\"text\": \"This cabin belonged to a woodcutter who did not ask my name. He is gone now, I hope only to his daughter\\'s farm. I keep to the upper room. The raiders turn the hall below over every few days, looking for me. They have not found the stair. Not yet.\"}','{\"text\": \"I ring the bell when the mist is thick. A foolish hope: that someone with a good heart hears it before someone with a blade does. I can no longer heal myself. A healing draught, a golden apple, such small things, and I cannot reach them.\"}','{\"text\": \"If you are reading this and I am still breathing, wake me. If I am not, find the gate I came through and cross the water. Climb to the meadow. Only one who carries my blessing can draw the sword, and when it leaves the stone, Vortigern wakes.\"}','{\"text\": \"Be ready.\"}','{\"text\": \"I have been called prophet and devil, counsellor and fool. Tonight I am only tired. Forgive an old man his doubts. Logres has always been saved by ordinary people who arrived on time. Perhaps you are one., M.\"}']}"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

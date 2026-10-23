@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "pulled=false": {
+      "model": "ancientpeaks_lore:block/sword_in_stone"
+    },
+    "pulled=true": {
+      "model": "ancientpeaks_lore:block/sword_in_stone_empty"
+    }
+  }
+}

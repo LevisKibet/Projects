@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.ronald.rivergence.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "rivergence.refmap.json",
+  "mixins": ["ChunkGeneratorMixin", "NoiseBasedChunkGeneratorMixin", "NoiseChunkMixin", "RandomStateMixin", "StructureMixin", "StructureStartsAccess"],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

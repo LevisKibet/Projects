@@ -1,0 +1,32 @@
+{
+ "type": "minecraft:chest",
+ "pools": [
+  {
+   "rolls": 1,
+   "entries": [
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'A Raider\\'s Orders',author:'The warband chief',resolved:1b,generation:3,LoreId:26,pages:['{\"text\": \"Orders from the warband chief\\\\nSearch the chapels along the coast. The old adviser is wounded and hiding among priests. He may look like a beggar. Do not trust age, weakness, or holy robes.\"}','{\"text\": \"He served Arthur before the young king ever drew a sword. Some call him prophet, some call him devil. I do not care what name you use. A wounded snake still has teeth.\"}','{\"text\": \"Stop the bells where you find them. He uses them to draw travelers and send warnings through the fog. If he starts speaking charms, cut him down before he finishes. Bring proof, not excuses.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'Scrap from a Bandit\\'s Pouch',author:'Unknown hand',resolved:1b,generation:3,LoreId:27,pages:['{\"text\": \"The soldiers have pulled back. Road chapels are unguarded. Most have blankets, grain, cups, candle wax, sometimes coin hidden near the altar. Priests hide things badly because they think God is watching the lock.\"}','{\"text\": \"Take the places nearest the main road first. Move before the villagers hide what is left. If monks resist, make an example. If villagers beg, take what they carry and let them run. Frightened mouths spread news faster than dead ones.\"}','{\"text\": \"Do not touch gray-cloaked old men unless the chief is present. Last group tried it near the marsh chapel. Found two of them standing in the road at dawn, alive but empty-eyed. Third one was never found.\"}']}"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

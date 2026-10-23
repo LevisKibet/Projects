@@ -1,0 +1,5 @@
+{
+  "type": "ancientpeaks:island_flood",
+  "input": "ancientpeaks:wrapped",
+  "seed_noise": "ancientpeaks:seed"
+}

@@ -1,0 +1,8 @@
+{
+    "targets": [ "swap" ],
+    "passes": [
+        { "name": "chromalight:light", "intarget": "minecraft:main", "outtarget": "swap",
+          "auxtargets": [ { "name": "DepthSampler", "id": "minecraft:main:depth" } ] },
+        { "name": "chromalight:copy", "intarget": "swap", "outtarget": "minecraft:main" }
+    ]
+}

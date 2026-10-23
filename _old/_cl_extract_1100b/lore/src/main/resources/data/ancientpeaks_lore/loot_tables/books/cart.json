@@ -1,0 +1,87 @@
+{
+ "type": "minecraft:chest",
+ "pools": [
+  {
+   "rolls": 1,
+   "entries": [
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'The Baker\\'s Ledger',author:'The village baker',resolved:1b,generation:3,LoreId:5,pages:['{\"text\": \"Supply Log, Autumn\\\\nNo flour from the river mill again. Four days late. I stretched the rye with barley and bean meal and called it village bread, but the children knew. Children always know when bread has become poor.\"}','{\"text\": \"I told the mothers there would be no white loaves until the mill carts came. One asked if I had hidden flour for richer houses. I have not. I wish I had, because at least then someone in this village would be eating properly.\"}','{\"text\": \"Two riders came at noon, cloaked up to the eyes though the day was mild. They bought my last six loaves for far too much silver and did not wait for change. One kept looking toward the coast. I barred the bakery door before sunset.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'A Guard\\'s Unsent Letter',author:'A guard',resolved:1b,generation:3,LoreId:10,pages:['{\"text\": \"Dearest Elspeth,\\\\nI meant to send this with the grain cart, but the cart never came. Things here are not right. Men stop talking when I enter the room, and Commander Rhys has begun holding council after midnight.\"}','{\"text\": \"Two nights ago, I saw a hooded rider at the back gate. He gave Rhys a purse heavy enough to pull the leather flat. I did not hear every word, but I heard one name clearly: Vortigern.\"}','{\"text\": \"Captain Thomas found a sealed letter this morning. He read it once, burned it, and ordered double watch until further notice. Since then he keeps his sword close even indoors. I think some of our own have been bought.\"}','{\"text\": \"I should have told you to leave sooner.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'Patrol Report: Northern Boundary',author:'Captain Andrew',resolved:1b,generation:3,LoreId:12,pages:['{\"text\": \"Captain Andrew reporting\\\\nWe reached the river bend by noon. Three farms abandoned. No bodies found. No livestock. One house still had porridge in the pot, gone cold and skinned over.\"}','{\"text\": \"In the second house, a cradle had been overturned. Sergeant Pell wanted to search the tree line, but our scout found boot tracks heading both north and west. Too many to read cleanly.\"}','{\"text\": \"Three straight cuts were marked into the pines along the road. The scout says Saxon hired men use them to mark safe paths. If true, they are walking deeper into Arthur\\'s lands than any enemy has dared in years.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'The Last Inspection',author:'The captain',resolved:1b,generation:3,LoreId:14,pages:['{\"text\": \"Three archers deserted in the rain last night. They took two horses, a bow case, and most of the dry rations. By law, I should send men after them. I have not. I understand them too well.\"}','{\"text\": \"The pay chest arrived from the capital at noon. The lock was intact. The seal looked proper. Inside were river stones and scrap iron. The men saw before I could close the lid.\"}','{\"text\": \"I can command hungry soldiers for a while. I can command frightened ones for longer than most men think. But abandoned men are different. They look past you when you speak, as if already measuring the road home.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'Unsent Letter to the Abbot',author:'A monk',resolved:1b,generation:3,LoreId:18,pages:['{\"text\": \"To Father Julian,\\\\nThe supply wagons are three weeks overdue. We have half a sack of barley left, no lamp oil to spare, and the candles are burned so low that Brother Luke saves the melted wax in a cup.\"}','{\"text\": \"A peddler came through saying Logres has shut its gates. He may have lied for a meal. Men do that when hungry. Still, he knew the names of two streets near the harbor and wept when he spoke of them.\"}','{\"text\": \"If no bread comes by fortnight, we must decide whether staying here helps anyone at all. I used to think abandoning a sanctuary was a sin. Now I wonder whether letting people starve inside one is worse.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'A Raider\\'s Orders',author:'The warband chief',resolved:1b,generation:3,LoreId:26,pages:['{\"text\": \"Orders from the warband chief\\\\nSearch the chapels along the coast. The old adviser is wounded and hiding among priests. He may look like a beggar. Do not trust age, weakness, or holy robes.\"}','{\"text\": \"He served Arthur before the young king ever drew a sword. Some call him prophet, some call him devil. I do not care what name you use. A wounded snake still has teeth.\"}','{\"text\": \"Stop the bells where you find them. He uses them to draw travelers and send warnings through the fog. If he starts speaking charms, cut him down before he finishes. Bring proof, not excuses.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'Scrap from a Bandit\\'s Pouch',author:'Unknown hand',resolved:1b,generation:3,LoreId:27,pages:['{\"text\": \"The soldiers have pulled back. Road chapels are unguarded. Most have blankets, grain, cups, candle wax, sometimes coin hidden near the altar. Priests hide things badly because they think God is watching the lock.\"}','{\"text\": \"Take the places nearest the main road first. Move before the villagers hide what is left. If monks resist, make an example. If villagers beg, take what they carry and let them run. Frightened mouths spread news faster than dead ones.\"}','{\"text\": \"Do not touch gray-cloaked old men unless the chief is present. Last group tried it near the marsh chapel. Found two of them standing in the road at dawn, alive but empty-eyed. Third one was never found.\"}']}"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

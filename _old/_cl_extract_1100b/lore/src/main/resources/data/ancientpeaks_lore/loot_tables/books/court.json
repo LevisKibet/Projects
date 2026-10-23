@@ -1,0 +1,32 @@
+{
+ "type": "minecraft:chest",
+ "pools": [
+  {
+   "rolls": 1,
+   "entries": [
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'A Ship in the Fog',author:'Arthur',resolved:1b,generation:3,LoreId:29,pages:['{\"text\": \"From the King\\'s own hand\\\\nMordred did not come to supper again. I sat with his cup filled and watched the candles go down. When he was a boy he could not keep still at table.\"}','{\"text\": \"Now he is a grown man, and I find I do not know where he goes, or what he thinks while he is there.\"}','{\"text\": \"Sir Bedivere came to me late. One of the coast guards had gone to his captain, and the captain to him, with a thing he did not like to say aloud. A ship off the western headland, at dusk, deep in the fog.\"}','{\"text\": \"No lamps. No banner the guard knew. It did not come in and it did not turn away. It only sat there on the grey water, as if it were waiting for something. Then the fog closed, and when it lifted the sea was empty.\"}','{\"text\": \"It may be nothing. A trader blown off course, a fisherman with no lamp oil. I told myself so twice. But the air in this hall has been thick for weeks, the way it is before a storm, and I have learned not to laugh at that feeling.\"}','{\"text\": \"So: the watch on the coast is doubled from tonight. The beacons are to be kept dry and ready. And the men in the far outposts are to come home, every one of them, before the first frost.\"}','{\"text\": \"I would rather have them close and feel foolish than leave them out there alone.\"}','{\"text\": \"I wish I could talk to Mordred about it. There was a time I told him everything first.\"}']}"
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_nbt",
+       "tag": "{title:'The Empty Chair',author:'Arthur',resolved:1b,generation:3,LoreId:30,pages:['{\"text\": \"From the King\\'s own hand\\\\nMordred\\'s chair was empty at council this morning. That is the third time this month. Nobody had seen him since yesterday\\'s noon bell. His horse is in the stable. His bed was not slept in.\"}','{\"text\": \"I went to his rooms myself. The fire was cold. His cloak was gone, but his sword was still on its hook, and he never goes anywhere without that sword. I stood in the doorway longer than a king should.\"}','{\"text\": \"I have sent Bedivere\\'s men to look for him, quietly. The road, the harbour, the river. I told them to bring him home safe and to ask him nothing. Whatever trouble he is in, he can tell me himself when he is warm and fed.\"}','{\"text\": \"The last time he vanished he came back after two days with river mud to his knees and would not say where he had been. He smiled at me, and I let it go, because I was glad to see him. Perhaps I should not have.\"}','{\"text\": \"Some of the lords have begun to say things when they think I cannot hear. I will not listen to it. He is the boy I taught to ride. If he is keeping something from me, it is because he is hurting, not because he means me harm.\"}','{\"text\": \"It is nearly midnight. The chair is still empty. I will leave the door unbarred.\"}']}"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

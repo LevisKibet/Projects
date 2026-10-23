@@ -1,0 +1,13 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+  "package": "com.ronald.chromalight.mixin.compat",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "chromalight.refmap.json",
+  "client": [
+    "EmbeddiumBlockRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}
